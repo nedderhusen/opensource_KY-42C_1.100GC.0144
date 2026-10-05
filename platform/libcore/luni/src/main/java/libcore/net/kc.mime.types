@@ -1,0 +1,10 @@
+# This software is contributed or developed by KYOCERA Corporation.
+# (C) 2019 KYOCERA Corporation
+
+audio/webm         webm
+text/x-vcard       vcf
+text/x-vnote       vnt
+text/x-vmessage    vmg
+message/rfc822     mht
+audio/qcelp        qcp
+audio/x-qcp        qcp

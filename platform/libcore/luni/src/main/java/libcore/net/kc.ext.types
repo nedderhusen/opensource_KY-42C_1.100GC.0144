@@ -1,0 +1,11 @@
+# This software is contributed or developed by KYOCERA Corporation.
+# (C) 2019 KYOCERA Corporation
+
+video/webm         webm
+text/x-vcard       icf
+text/x-vnote       vnt
+text/x-vmessage    vmg
+message/rfc822     mht
+audio/x-qcp        qcp
+text/x-vbookmark   vbm
+text/x-vbookmark   url
